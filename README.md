@@ -1,0 +1,2 @@
+# bspatch
+bspatch bsdiff
